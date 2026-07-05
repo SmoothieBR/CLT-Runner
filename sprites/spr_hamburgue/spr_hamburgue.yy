@@ -1,11 +1,11 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_hamburgue",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":20,
   "bbox_left":5,
   "bbox_right":16,
-  "bbox_top":4,
+  "bbox_top":5,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
