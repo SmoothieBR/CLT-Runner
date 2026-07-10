@@ -1,2 +1,1 @@
-global.pontos = 0
-room_restart()
+room_goto(rm_pontos)
