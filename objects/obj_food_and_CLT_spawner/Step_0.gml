@@ -5,6 +5,8 @@ random_x = choose(12, 168);
 
 random_x_CLT = choose(-4, 184);
 
+random_red = random_range(0, 1)
+
 if (tempo <= 3)
 {
 	tempo = 3;
